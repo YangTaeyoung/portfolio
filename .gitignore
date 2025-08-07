@@ -142,3 +142,6 @@ fabric.properties
 !.idea/runConfigurations
 
 # End of https://www.toptal.com/developers/gitignore/api/react,nextjs,webstorm+all
+
+## Claude Code
+.claude/settings.local.json
