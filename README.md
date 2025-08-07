@@ -18,8 +18,8 @@
 <br />
 
 <div align="center">
-  <a href="https://portfolio-yangtaeyoung.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge" alt="Live Demo" />
+  <a href="https://portfolio.code-kirin.me" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://github.com/YangTaeyoung" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -153,36 +153,6 @@ portfolio/
 - 백드롭 블러와 보더 효과
 - 호버시 그래디언트 변화
 - 3D 트랜스폼 애니메이션
-
-### 📊 Performance Metrics
-
-```javascript
-// Lighthouse Score
-Performance: 98
-Accessibility: 100
-Best Practices: 100
-SEO: 100
-```
-
----
-
-## 💼 Professional Experience
-
-### 한화비전 (2024.04 - 현재)
-**백엔드 개발자** | Go, gRPC, MongoDB
-- 실시간 영상 스트리밍 서비스 개발
-- 마이크로서비스 아키텍처 설계
-
-### 데브시스터즈 (2023.06 - 2024.04)
-**게임 서버 개발자** | Go, DynamoDB, Redis
-- 쿠키런: 모험의탑 라이브 서비스
-- 동시접속 10만+ 처리 시스템 구축
-
-### Additional Experience
-- 모비두 백엔드 개발
-- 신한은행 프로젝트
-- 오픈소스 컨트리뷰션
-
 ---
 
 ## 🏆 Key Achievements
